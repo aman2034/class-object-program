@@ -1,4 +1,4 @@
-//LAB:-1 ( AREA OF RECTANGLE)
+(USING CLASS & OBJECT FIND AREA OF RECTANGLE)
 #include<iostream>
 using namespace std;
 class Rectangle
